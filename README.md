@@ -32,7 +32,7 @@ Although most service providers offer free SMS nowadays, I still have to remind 
 The application looks like in the pictures below.
 Feel free to adapt and modify the application according to your needs.
 
-[![N|Solid](https://i.postimg.cc/jj1z5129/LandView.png)
-[![N|Solid](https://i.postimg.cc/MTj1jYjG/normalview.png)
+![N|Solid](https://i.postimg.cc/jj1z5129/LandView.png)
+![N|Solid](https://i.postimg.cc/MTj1jYjG/normalview.png)
 
 
